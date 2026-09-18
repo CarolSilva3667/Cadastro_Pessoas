@@ -129,6 +129,10 @@ flutter_launcher_icons
 
 ![Menu](prints/menu.png)
 
+### Menu lateral
+
+![Menu](prints/menu_Escuro.png)
+
 ### Sair 
 
 ![Sair](prints/sair.png)
