@@ -129,6 +129,10 @@ flutter_launcher_icons
 
 ![Menu](prints/menu.png)
 
+### Sair 
+
+![Sair](prints/sair.png)
+
 ---
 
 ## Download do APK
