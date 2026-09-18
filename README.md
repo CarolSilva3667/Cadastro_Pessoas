@@ -1,4 +1,4 @@
-# 📱 Cadastro de Pessoas
+# Cadastro de Pessoas
 
 Aplicativo desenvolvido em Flutter como atividade acadêmica.
 
@@ -6,7 +6,7 @@ O aplicativo permite cadastrar pessoas e consultar automaticamente os dados do e
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 ### Splash Screen
 
@@ -55,7 +55,7 @@ O menu possui:
 
 ---
 
-## 🌐 API utilizada
+## API utilizada
 
 ### ViaCEP
 
@@ -73,7 +73,7 @@ https://viacep.com.br/ws/01001000/json/
 
 ---
 
-## 💾 Armazenamento
+## Armazenamento
 
 Os cadastros são armazenados localmente no dispositivo utilizando o pacote:
 
@@ -85,7 +85,7 @@ Dessa forma, os dados continuam disponíveis mesmo depois de fechar e abrir nova
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Flutter
 * Dart
@@ -96,7 +96,7 @@ Dessa forma, os dados continuam disponíveis mesmo depois de fechar e abrir nova
 
 ---
 
-## 📦 Dependências
+## Dependências
 
 ```yaml
 http
@@ -107,7 +107,7 @@ flutter_launcher_icons
 
 ---
 
-## 📱 Telas
+## Telas
 
 ### Splash
 
@@ -131,7 +131,7 @@ flutter_launcher_icons
 
 ---
 
-## 📥 Download do APK
+## Download do APK
 
 O arquivo APK do aplicativo está disponível abaixo:
 
@@ -139,7 +139,7 @@ O arquivo APK do aplicativo está disponível abaixo:
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 Clone o repositório:
 
@@ -167,7 +167,7 @@ flutter run
 
 ---
 
-## 👩‍💻 Projeto acadêmico
+## Projeto acadêmico
 
 Projeto desenvolvido para a atividade de desenvolvimento mobile.
 
