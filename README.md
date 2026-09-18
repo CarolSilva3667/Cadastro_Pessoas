@@ -179,6 +179,6 @@ flutter run
 
 Projeto desenvolvido para a atividade de desenvolvimento mobile.
 
-**Aplicativo:** Cadastro de Pessoas
-**Tecnologia:** Flutter
-**API:** ViaCEP
+- **Aplicativo:** Cadastro de Pessoas
+- **Tecnologia:** Flutter
+- **API:** ViaCEP
