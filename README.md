@@ -123,7 +123,7 @@ flutter_launcher_icons
 
 ### Cadastro com endereço preenchido
 
-![Cadastro preenchido](prints/cadastro_preenchido.png)
+![Cadastro preenchido](prints/c_p.png)
 
 ### Menu lateral
 
